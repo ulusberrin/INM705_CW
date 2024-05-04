@@ -1,4 +1,4 @@
-# INM706_CW
+# INM705_CW
 Image Analysis Coursework
 
 
