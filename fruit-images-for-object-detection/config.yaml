@@ -3,7 +3,7 @@ path_settings:
     val_root: "fruit-images-for-object-detection/test_zip/test/"
     checkpoint_root: "fruit-images-for-object-detection/checkpoints/"
 model:
-    optimizer: "SGD"
+    optimizer: "ADAM"
     backbone : "RESNET"
 train:
     epochs: 100
