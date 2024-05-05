@@ -6,7 +6,7 @@ Image Analysis Coursework
 FasterRCNN_config.ipynb notebook reads config.yaml file under fruit-images-for-object-detection folder. There are three categories in the YAML file, path_settings, model selection, and hyperparameters for training. They can be changed and notebook can be executed with changing parameters. The minimum loss will be saved as a checkpoint under fruit-images-for-object-detection/checkpoints folder. Inference file Inference_Load_Checkpoints.ipynb can be used to load from a checkpoint and test the images.
 
 Checkpoints could not be uploaded to Github. Instead they are on dropbox server.
-https://www.dropbox.com/scl/fi/fcpaudqb89jcib0yozbzp/Checkpoints.zip?rlkey=9zih3wt6s2e7f13ir6ejoxde2&st=bgs7wz49&dl=0
+https://www.dropbox.com/scl/fo/ym0gc1dvvhdmixzr2nd7v/AABaV2M4Gdv6aeilR8AzfCY?rlkey=iwqkfrnvijh9jelj6rf6l9iwj&st=31ucpn0h&dl=0
 
 
 ## 🎶 Project Description
